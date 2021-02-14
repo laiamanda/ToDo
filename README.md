@@ -3,4 +3,4 @@
 A simple ToDo list using jQuery
 
 Looks like:
-![Image of To Do](Assets/ToDo.PNG)
+![Image of To Do](Assets/todo-image.PNG)
