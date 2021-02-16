@@ -7,3 +7,6 @@ A simple To Do list using jQuery
 
 Looks like:
 ![Image of To Do](https://github.com/laiamanda/ToDo/blob/main/Asset/todo-image.PNG)
+
+
+Based on Colt Steele's Udemy
